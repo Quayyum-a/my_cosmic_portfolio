@@ -1,0 +1,24 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "http-server -p 8080 -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quayyum-a/my_cosmic_portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Quayyum-a/my_cosmic_portfolio/issues"
+  },
+  "homepage": "https://github.com/Quayyum-a/my_cosmic_portfolio#readme",
+  "description": "",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
